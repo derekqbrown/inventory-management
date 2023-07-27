@@ -1,4 +1,4 @@
-# software-1
+# software-1 - Inventory Management system
 These files are for the WGU C482 course assessment.
 
 This project is an inventory management system that allows the user to add, delete, and modify parts and products. This project does not use a database, however, and would need to be modified to load in an inventory file or database.
